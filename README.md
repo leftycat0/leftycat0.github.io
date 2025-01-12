@@ -2,6 +2,8 @@
 
 - I’m currently learning **Python**
 
+- Ask me about **js, java, kotlin**
+
 - Fun fact **Our universe is constantly expanding outwards. Also,there is a high probability that we are living in a simulation.**
 
 <h3 align="left">Connect with me:</h3>
